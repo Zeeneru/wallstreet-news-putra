@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # News App Flutter (Minimal)
 Android build - ready to run.
 
@@ -25,3 +26,7 @@ Android build - ready to run.
   `lib/services/news_service.dart`
 - This project is minimal for learning and quick running. For production, do not hardcode API keys.
 
+=======
+# wallstreet-news-putra
+TUGAS-MOBILE-DEV
+>>>>>>> 19eb92da43bf4c6a935dd8bcbdc9ac4137c7e33f
